@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="myspark,myspark-coresqltest2,mysparkdstream,mysparksql,spark-core-project-test,sparttest" />
+  </component>
+</project>
