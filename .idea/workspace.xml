@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae75253-4041-406e-830b-23d17ea47f12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/mytestgit2/Test21.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/mytestgit2/Test22.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myspark-coresqltest2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myspark-coresqltest2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myspark/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myspark/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myspark/spark-core-project-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myspark/spark-core-project-test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysparkdstream/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mysparkdstream/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysparksql/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mysparksql/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,20 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myspark-coresqltest2/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myspark-coresqltest2/src/main/scala/com/atguigu/bean/UserVisitAction.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myspark-coresqltest2/src/main/scala/com/atguigu/acc/MapAccumulator.scala">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,11 +82,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/testgit/TestGit2.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="76">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/mytestgit2/Test21.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/mytestgit2/Test22.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -138,13 +151,11 @@
         <option value="lzp" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/myspark/src/main/wordcount/teacher/day01/udf/MySum.scala" />
-        <option value="$PROJECT_DIR$/myspark/src/main/wordcount/teacher/day01/RDD2DF.scala" />
         <option value="$PROJECT_DIR$/myspark/src/main/wordcount/wordcounttest/day05/add/MyAccTest2.scala" />
         <option value="$PROJECT_DIR$/myspark/src/main/wordcount/spark_sql/day01/DataFrameDemo.scala" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -194,6 +205,8 @@
         <option value="$PROJECT_DIR$/myspark-coresqltest2/src/main/scala/com/atguigu/app/Practiceapp.scala" />
         <option value="$PROJECT_DIR$/myspark-coresqltest2/src/main/scala/com/atguigu/app/CategorySessionTopApp.scala" />
         <option value="$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/testgit/TestGit.scala" />
+        <option value="$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/mytestgit2/Test21.scala" />
+        <option value="$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/mytestgit2/Test22.scala" />
       </list>
     </option>
   </component>
@@ -313,7 +326,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
               <item name="mysparkdstream" type="462c0819:PsiDirectoryNode" />
-              <item name="testgit" type="462c0819:PsiDirectoryNode" />
+              <item name="mytestgit2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,7 +339,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576243538047" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576245132608" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -510,7 +523,7 @@
       <workItem from="1572409773902" duration="658000" />
       <workItem from="1573178764368" duration="42000" />
       <workItem from="1576241879802" duration="972000" />
-      <workItem from="1576242926338" duration="505000" />
+      <workItem from="1576242926338" duration="811000" />
     </task>
     <task id="LOCAL-00001" summary="Testgit">
       <created>1576242375209</created>
@@ -537,12 +550,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107705000" />
+    <option name="totallyTimeSpent" value="108011000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16957104" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16957104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -562,7 +576,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3357271" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.22804533" />
+      <window_info anchor="bottom" id="Version Control" order="13" visible="true" weight="0.22804533" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.17980023" />
@@ -597,19 +611,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mysparkdstream/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myspark/spark-core-project-test/src/main/myspark-core-project/com/atguigu/sparksqlproject2/CityRemarkUDAF.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="e#39#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myspark/spark-core-project-test/src/main/myspark-core-project/com/atguigu/sparksqlproject/SparkSqlProject.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -999,8 +1000,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/testgit/TestGit2.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="76">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/mytestgit2/Test21.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/mytestgit2/Test22.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
