@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ae75253-4041-406e-830b-23d17ea47f12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/Testidea/Testideal1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysparkdstream/src/main/scala/com/atguigu/mysparkdstream/Testidea/Testideal2.scala" afterDir="false" />
+    <list default="true" id="6ae75253-4041-406e-830b-23d17ea47f12" name="Default Changelist" comment="Testgit3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -300,18 +298,6 @@
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
               <item name="mysparkdstream" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sparttest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sparttest" type="462c0819:PsiDirectoryNode" />
-              <item name="mysparkdstream" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="mysparkdstream" type="462c0819:PsiDirectoryNode" />
-              <item name="Testidea" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -323,8 +309,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576246587049" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576247294021" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/myflinktutorial" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -507,7 +493,7 @@
       <workItem from="1572409773902" duration="658000" />
       <workItem from="1573178764368" duration="42000" />
       <workItem from="1576241879802" duration="972000" />
-      <workItem from="1576242926338" duration="2498000" />
+      <workItem from="1576242926338" duration="2984000" />
     </task>
     <task id="LOCAL-00001" summary="Testgit">
       <created>1576242375209</created>
@@ -530,11 +516,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576243023364</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Testgit3">
+      <created>1576246988241</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576246988241</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109698000" />
+    <option name="totallyTimeSpent" value="110184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="574" y="74" width="876" height="620" extended-state="0" />
@@ -574,6 +567,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testgit" />
